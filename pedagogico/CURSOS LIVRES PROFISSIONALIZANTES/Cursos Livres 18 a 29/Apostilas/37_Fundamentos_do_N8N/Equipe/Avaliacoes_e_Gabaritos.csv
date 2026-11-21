@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+37;Fundamentos do N8N;1;Disparo e nós;Qual nó pode iniciar este teste sob comando do aluno?;Manual Trigger.
+37;Fundamentos do N8N;2;Condições e tipos;Qual saída recebe 0 quando a condição é maior que zero?;A saída falsa.
+37;Fundamentos do N8N;3;Dados e falhas;Por que registrar um caso inválido junto aos válidos?;Para verificar se o fluxo lida com a exceção como planejado.
+37;Fundamentos do N8N;4;Resumo e entrega;Que dados devem acompanhar o fluxo para reprodução?;Amostras fictícias, instruções e resultados esperados.

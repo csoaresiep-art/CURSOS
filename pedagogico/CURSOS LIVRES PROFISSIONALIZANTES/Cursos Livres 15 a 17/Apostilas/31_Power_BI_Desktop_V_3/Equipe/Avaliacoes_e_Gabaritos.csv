@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+31;Power BI Desktop V.3;1;Importação e tipos;Onde revisar o tipo de dado antes da carga?;No Power Query.
+31;Power BI Desktop V.3;2;Modelo e relacionamentos;Em qual tabela os códigos dos livros devem ser únicos?;Na dimensão Livros.
+31;Power BI Desktop V.3;3;Medidas e contexto;A medida pode mudar ao selecionar uma categoria?;Sim, conforme o contexto do filtro e o relacionamento.
+31;Power BI Desktop V.3;4;Painel e validação;Como conferir a medida sem filtros?;Comparar o valor com a contagem da base de origem.

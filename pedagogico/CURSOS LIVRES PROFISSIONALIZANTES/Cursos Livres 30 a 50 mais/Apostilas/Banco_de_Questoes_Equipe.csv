@@ -1,0 +1,101 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+1;Administrativo Informatizado V. 4;1;Protocolo;Que campo distingue solicitações com o mesmo assunto?;Número de protocolo.
+1;Administrativo Informatizado V. 4;2;Documentos e versões;Como distinguir duas revisões do mesmo pedido?;Use número de versão e registre a revisão.
+1;Administrativo Informatizado V. 4;3;Planilha de compras;Qual o custo de 12 itens a R$ 4,50 com frete de R$ 8?;R$ 62.
+1;Administrativo Informatizado V. 4;4;Comunicação e acompanhamento;Que dado permite relacionar o e-mail à planilha?;O número do protocolo.
+2;Departamento Pessoal V. 4;1;Admissão e sigilo;O que pode aparecer num quadro compartilhado de treinamento?;Código fictício e status, sem documentos ou dados pessoais.
+2;Departamento Pessoal V. 4;2;Registro de jornada;Qual total decorre dos turnos 08–12 e 13–17?;Oito horas.
+2;Departamento Pessoal V. 4;3;Conferência de folha;Quanto sobra de R$ 1.100 com deduções simuladas de R$ 150?;R$ 950.
+2;Departamento Pessoal V. 4;4;Fluxo e validação;O que fazer se o registro e o comprovante divergem?;Registrar a divergência e encaminhar ao responsável antes do fechamento.
+3;Canva;1;Hierarquia visual;Que ajuste ajuda o título a aparecer antes dos detalhes?;Aumentar seu tamanho ou destaque e manter os detalhes em nível secundário.
+3;Canva;2;Cores e contraste;O que corrigir se amarelo-claro sobre branco quase desaparece?;Escurecer o texto ou escolher um fundo que ofereça contraste.
+3;Canva;3;Imagens e créditos;Onde verificar se um elemento pode ser reutilizado?;Nos termos ou na licença do elemento.
+3;Canva;4;Exportação e revisão;Qual arquivo você abriria para conferir a legibilidade após exportar?;O próprio PNG ou PDF exportado.
+4;CapCut;1;Roteiro e enquadramento;Qual plano mostra melhor como dobrar o papel?;Um plano próximo das mãos e do papel.
+4;CapCut;2;Linha do tempo e corte;O que você faz para retirar uma espera no começo de um clipe?;Apara o início do clipe.
+4;CapCut;3;Legendas e áudio;Como verificar se a legenda funciona sem áudio?;Assistir ao trecho sem som e conferir se a ação e a instrução são compreensíveis.
+4;CapCut;4;Revisão e exportação;Qual problema exige revisão antes da entrega: nome real visível ou corte intencional entre passos?;Nome real visível.
+5;Educação Financeira;1;Receitas e despesas;Com R$ 90 de entradas e R$ 58 de saídas, qual o saldo?;R$ 32.
+5;Educação Financeira;2;Necessidades e escolhas;Quanto falta se comprar os três itens?;R$ 5, pois a soma é R$ 45.
+5;Educação Financeira;3;Preço unitário e comparação;Qual é o menor preço unitário?;R$ 2 por unidade no pacote de seis.
+5;Educação Financeira;4;Meta e reserva;Para atingir R$ 48 em quatro semanas com parcelas iguais, quanto reservar por semana?;R$ 12.
+6;Empreendedorismo;1;Problema e público;Qual pergunta evita sugerir a resposta: “Você quer meu app?” ou “Como registra empréstimos hoje?”;Como registra empréstimos hoje?
+6;Empreendedorismo;2;Proposta de valor;O que é possível medir na ficha de empréstimo?;Tempo para localizar um registro ou número de registros encontrados.
+6;Empreendedorismo;3;Custo e estimativa;Quantas unidades cobrem R$ 40 com margem de R$ 4?;Dez.
+6;Empreendedorismo;4;Apresentação e revisão;Que evidência sustenta a proposta de localizar registros mais rápido?;A medição do tempo no teste, comparada a uma referência.
+7;Inglês Introdutório V.2;1;Personal introductions;Complete: “_____ you new here?”;Are.
+7;Inglês Introdutório V.2;2;School places;Complete: “There _____ two classrooms.”;are.
+7;Inglês Introdutório V.2;3;Directions;Qual expressão diz “vire à direita”?;Turn right.
+7;Inglês Introdutório V.2;4;Visitor dialogue;Como perguntar pela biblioteca em uma frase?;Where is the library?
+8;Inglês Básico;1;Daily routines;Complete: “She _____ chess on Friday” com play.;plays.
+8;Inglês Básico;2;Time and frequency;Complete: “_____ Tuesday, _____ five.”;On Tuesday, at five.
+8;Inglês Básico;3;Questions about habits;Qual está correta: “Does she reads?” ou “Does she read?”;Does she read?
+8;Inglês Básico;4;Compare routines;Qual palavra liga duas diferenças na frase de exemplo?;but.
+9;Digitação;1;Postura e teclas de referência;Que teclas têm marcas de referência em um teclado comum?;F e J.
+9;Digitação;2;Maiúsculas e acentos;Qual tecla é usada para uma maiúscula pontual?;Shift.
+9;Digitação;3;Precisão e revisão;Em 40 caracteres, com 2 erros, qual a precisão?;95%.
+9;Digitação;4;Ritmo e evolução;Qual comparação é mais justa: trechos semelhantes com o mesmo tempo ou textos muito diferentes?;Trechos semelhantes com o mesmo tempo.
+10;Excel Fundamental V. 2;1;Células e tipos de dado;Na referência C2, o que indica o 2?;A linha.
+10;Excel Fundamental V. 2;2;Fórmulas e cópia;Para 4 itens a R$ 3,50, qual total deve aparecer?;R$ 14,00.
+10;Excel Fundamental V. 2;3;Funções e visualização;Qual fórmula soma D2 até D4 em Excel configurado em português?;=SOMA(D2:D4).
+10;Excel Fundamental V. 2;4;Validação do orçamento;Qual célula você altera para testar quantidade, B2 ou D2?;B2, pois D2 deve conter a fórmula.
+11;ChatGPT;1;Prompts com objetivo;Que informação falta em “Explique ciência” para delimitar o tema?;Um tópico ou pergunta específica, como a função da luz na fotossíntese.
+11;ChatGPT;2;Contexto e iteração;Qual pedido orienta melhor a revisão: “melhore” ou “resuma em cinco itens e preserve as datas”?;O segundo.
+11;ChatGPT;3;Alucinações e checagem;Uma referência parece real mas não é encontrada. Como registrar isso?;Como não verificada e sem usá-la como evidência.
+11;ChatGPT;4;Uso responsável e autoria;Que informação não deve entrar em um prompt sobre um colega?;Nome, contato ou outro dado pessoal desnecessário.
+12;Inteligência Artificial;1;Regras e exemplos;Qual método usa exemplos rotulados para estimar um padrão?;O aprendizado supervisionado.
+12;Inteligência Artificial;2;Treino e teste;Por que não testar só com os mesmos seis exemplos usados no treino?;Porque isso não verifica desempenho com exemplos novos.
+12;Inteligência Artificial;3;Viés e limites;Qual ajuste ajuda quando quase todos os papéis do treino são brancos?;Incluir papéis de várias cores no treino.
+12;Inteligência Artificial;4;IA generativa e decisão humana;Qual sistema produz um texto novo: gerador de texto ou classificador de material?;O gerador de texto.
+13;Marketing Digital V. 2;1;Público, objetivo e canal;Qual objetivo pode ser acompanhado: “divulgar muito” ou “30 confirmações em duas semanas”?;30 confirmações em duas semanas.
+13;Marketing Digital V. 2;2;Mensagem e calendário;Qual chamada indica claramente o próximo passo?;Confirme presença no formulário da mostra até sexta.
+13;Marketing Digital V. 2;3;Indicadores;Qual taxa resulta de 30 cliques em 600 impressões?;5%.
+13;Marketing Digital V. 2;4;Otimização responsável;Por que manter o canal igual ao comparar títulos?;Para reduzir a influência do canal sobre o resultado.
+14;Whatsapp Business;1;Perfil e catálogo;Qual dado ajuda o cliente a diferenciar dois cadernos de mesmo preço?;Medida, número de folhas ou outra característica objetiva.
+14;Whatsapp Business;2;Respostas rápidas;O que fazer antes de enviar uma resposta padrão?;Conferir se ela responde corretamente ao caso.
+14;Whatsapp Business;3;Etiquetas e fluxo;Qual estado representa um caso com resposta ainda pendente do cliente?;Aguardando confirmação ou resposta.
+14;Whatsapp Business;4;Privacidade e qualidade;Ao receber pedido de contato particular de outro cliente, como agir?;Preservar os dados e encaminhar internamente se houver necessidade legítima.
+15;AutoCAD 2D 2020;1;Unidades e coordenadas;Quais são as dimensões do retângulo do exemplo?;4.000 mm por 3.000 mm.
+15;AutoCAD 2D 2020;2;Camadas e precisão;Qual recurso ajuda a encostar duas linhas no ponto final?;Captura de ponto final, ou object snap.
+15;AutoCAD 2D 2020;3;Edição e cotas;Qual comando cria uma linha paralela a distância fixa?;OFFSET.
+15;AutoCAD 2D 2020;4;Layout e entrega;No papel a 1:50, quanto mede uma linha de 3.000 mm?;60 mm.
+16;Atendente de Farmácia V.2;1;Papéis e limites;A quem encaminhar uma dúvida de dose?;Ao farmacêutico responsável.
+16;Atendente de Farmácia V.2;2;Lote e validade;Que campos diferenciam duas unidades de mesmo produto com entregas distintas?;Lote e validade, acompanhados do registro de entrada.
+16;Atendente de Farmácia V.2;3;Conservação e segregação;O que registrar quando um lote está ilegível?;Item, ocorrência e momento, encaminhando ao responsável sem inventar lote.
+16;Atendente de Farmácia V.2;4;Privacidade e atendimento;Que informação deve ficar fora de quadro público?;Identidade e detalhes de saúde da pessoa atendida.
+17;Cuidador de Idosos;1;Autonomia, dignidade e limites;Como agir quando a pessoa consegue realizar parte da tarefa e quer participar?;Respeitar sua escolha e oferecer apenas o apoio combinado.
+17;Cuidador de Idosos;2;Ambiente e rotina;Qual providência documental cabe ao identificar corredor obstruído?;Registrar a obstrução, comunicar o responsável e combinar a solução conforme o contexto.
+17;Cuidador de Idosos;3;Observação e passagem de informações;Qual frase é observável: “recusou a atividade às 14h” ou “é sempre difícil”?;“Recusou a atividade às 14h”.
+17;Cuidador de Idosos;4;Escalonamento e revisão;Que informações devem estar prontas ao acionar ajuda em uma urgência?;Endereço ou localização, o que ocorreu e o estado observado da pessoa, seguindo orientações da central.
+18;Gestão de Recursos Humanos V.2;1;Descrição de função;Qual é um requisito observável para controlar materiais?;Preencher corretamente uma ficha de retirada.
+18;Gestão de Recursos Humanos V.2;2;Seleção por critérios;O que torna duas avaliações comparáveis?;Mesmo critério, mesma escala e evidência registrada.
+18;Gestão de Recursos Humanos V.2;3;Integração e acompanhamento;Qual evidência ajuda a saber se a tarefa foi compreendida?;Uma simulação executada e conferida.
+18;Gestão de Recursos Humanos V.2;4;Feedback e indicadores;Qual a taxa com 9 de 12 etapas concluídas?;75%.
+19;Logística;1;Entrada e divergência;Qual a divergência se o pedido era 20 e chegaram 17?;Três unidades a menos.
+19;Logística;2;Endereçamento e estoque;Quanto está disponível se há 30 físicos e 12 reservados?;18.
+19;Logística;3;Separação e expedição;Em que etapa comparar produtos separados e pedido?;Na conferência antes de expedir.
+19;Logística;4;Inventário e desempenho;Qual ação antecede ajuste no sistema quando a contagem diverge?;Recontar e investigar conforme o fluxo definido.
+20;Operador de Caixa;1;Registro de itens;Que subtotal resulta de 3 itens de R$ 4,25?;R$ 12,75.
+20;Operador de Caixa;2;Valores e troco;Qual o troco de R$ 50 para uma compra de R$ 37,40?;R$ 12,60.
+20;Operador de Caixa;3;Exceções e privacidade;Como agir diante de divergência de preço?;Pausar a operação, conferir e seguir o procedimento institucional aplicável.
+20;Operador de Caixa;4;Fechamento;Se o esperado era R$ 112 e a contagem foi R$ 109, qual a diferença?;R$ 3 a menos.
+21;Técnicas de Vendas V. 2;1;Escuta e diagnóstico;Qual pergunta revela contexto de uso?;“Para qual atividade você precisa do material?”
+21;Técnicas de Vendas V. 2;2;Valor e proposta;Qual é o benefício de uma pasta resistente para quem leva desenhos na mochila?;Reduzir danos aos desenhos no transporte.
+21;Técnicas de Vendas V. 2;3;Objeções e transparência;O que fazer se desconhece o prazo de entrega?;Verificar antes de prometer.
+21;Técnicas de Vendas V. 2;4;Fechamento e pós-venda;Quais dados você confirma antes de encerrar?;Item, quantidade, preço, prazo e próximo passo.
+22;Assistente Contábil V.2;1;Documentação e classificação;Qual conta acompanha o dinheiro disponível no caixa?;Caixa, no ativo.
+22;Assistente Contábil V.2;2;Partidas dobradas;Se os débitos totalizam R$ 300, quanto deve somar o crédito?;R$ 300.
+22;Assistente Contábil V.2;3;Balancete e conciliação;Por que comparar o diário com os documentos?;Para confirmar a origem, o valor e a conta além da igualdade aritmética.
+22;Assistente Contábil V.2;4;Relatório de conferência;Qual evidência permite reconstruir o lançamento?;Documento vinculado, data, histórico, contas e valor.
+23;Comunicação Profissional;1;Público e intenção;O que muda quando a mensagem vai para quem autoriza a compra?;Incluem-se justificativa, valor e pedido de aprovação.
+23;Comunicação Profissional;2;E-mail e clareza;Qual assunto é mais verificável: “urgente” ou “aprovar cartazes até quinta”?;Aprovar cartazes até quinta.
+23;Comunicação Profissional;3;Escuta e reunião;Quais campos tornam uma decisão acompanhável?;Ação, responsável e prazo.
+23;Comunicação Profissional;4;Feedback e apresentação;O que torna o feedback do exemplo executável?;Ele indica o ponto observado e o ajuste específico.
+24;Inteligência Emocional;1;Emoção e reação;Em “respondeu com voz alta”, o que está descrito?;Um comportamento observável.
+24;Inteligência Emocional;2;Pausa e escolha;Que resposta recolhe informação antes de reagir?;“Pode mostrar qual parte precisa ser refeita?”
+24;Inteligência Emocional;3;Escuta empática e limites;Qual componente torna a resposta assertiva?;Ela reconhece a situação e informa o que pode ser feito e quando.
+24;Inteligência Emocional;4;Conflito e rede de apoio;Quando a conversa entre colegas não resolve uma situação persistente, qual próximo passo?;Procurar pessoa de confiança ou canal institucional.
+25;Novo Emprego: Rota para o Futuro;1;Objetivo e evidências;Qual frase demonstra melhor organização?;Uma descrição de ação e resultado, como manter o registro de empréstimos.
+25;Novo Emprego: Rota para o Futuro;2;Oportunidades e verificação;Que fonte confirma se o anúncio realmente pertence à empresa?;Canal oficial da empresa ou plataforma oficial indicada.
+25;Novo Emprego: Rota para o Futuro;3;Entrevista e portfólio;Qual parte da resposta indica o efeito da ação?;O resultado.
+25;Novo Emprego: Rota para o Futuro;4;Acompanhamento e próximos passos;Qual informação ajuda a saber quando acompanhar uma candidatura?;Data ou prazo combinado para retorno.

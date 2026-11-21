@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+37;Desenvolvedor de Games Online V.2;1;Mecânica e protótipo;Qual ação central precisa funcionar antes de adicionar cenários?;Mover o personagem para desviar do obstáculo.
+37;Desenvolvedor de Games Online V.2;2;Estados de jogo;Em qual estado o placar deve avançar durante o desvio?;Durante a partida.
+37;Desenvolvedor de Games Online V.2;3;Dificuldade e feedback;Por que mudar uma variável de cada vez?;Para identificar qual mudança afetou o jogo.
+37;Desenvolvedor de Games Online V.2;4;Empacotamento e teste;Qual teste ajuda a verificar se a entrega inclui todos os recursos?;Abrir a entrega em outra estação ou no ambiente do AVA e conferir a execução.

@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+24;HTML5 e CSS3;1;Estrutura semântica;Qual elemento marca o conteúdo principal?;main.
+24;HTML5 e CSS3;2;CSS e modelo de caixa;Qual propriedade cria espaço interno?;padding.
+24;HTML5 e CSS3;3;Responsividade e acessibilidade;Qual atributo fornece alternativa textual para imagem?;alt.
+24;HTML5 e CSS3;4;Revisão e entrega local;O que deve acompanhar o HTML se ele usa styles.css?;O arquivo styles.css no caminho referenciado.

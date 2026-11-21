@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+23;Python;1;Variáveis e tipos;Qual é o tipo retornado diretamente por input?;str.
+23;Python;2;Condições e validação;Uma nota exatamente 10 é válida pela regra do exemplo?;Sim.
+23;Python;3;Listas e repetição;Por que verificar se a lista está vazia antes de dividir?;Para evitar divisão por zero.
+23;Python;4;Funções e testes;Que instrução devolve o resultado da função ao ponto que a chamou?;return.

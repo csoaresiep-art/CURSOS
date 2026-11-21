@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+15;Kids - Programação;1;Sequência de comandos;Por que testar a ordem das instruções?;Porque trocar passos pode levar a um destino diferente.
+15;Kids - Programação;2;Eventos;O que inicia a sequência “quando espaço for pressionado”?;O evento de pressionar a tecla espaço.
+15;Kids - Programação;3;Repetições;Quantas repetições o quadrado do exemplo exige?;Quatro.
+15;Kids - Programação;4;Depuração e animação;Se dois eventos disparam a mesma fala por engano, o que revisar?;Os blocos de início e as instruções ligadas a cada um.
