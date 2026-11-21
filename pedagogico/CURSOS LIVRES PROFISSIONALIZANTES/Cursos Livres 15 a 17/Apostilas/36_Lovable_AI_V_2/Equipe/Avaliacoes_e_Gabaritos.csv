@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+36;Lovable AI V.2;1;Escopo e histórias de uso;Que critério permite testar a ordenação?;Eventos com datas distintas aparecem da mais próxima para a mais distante.
+36;Lovable AI V.2;2;Prompt e interface;Que instrução estabelece um limite de escopo no exemplo?;Sem login nem publicação.
+36;Lovable AI V.2;3;Revisão e acessibilidade;Que mensagem ajuda quando um filtro retorna zero itens?;Uma indicação explícita de que não há resultados para o filtro escolhido.
+36;Lovable AI V.2;4;Demonstração e limites;Que informação evita confundir demonstração com sistema em operação?;A indicação dos dados fictícios, do escopo e das funções simuladas.

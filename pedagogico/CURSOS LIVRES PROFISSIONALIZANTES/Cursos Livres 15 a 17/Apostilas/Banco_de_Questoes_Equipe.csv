@@ -1,0 +1,173 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+1;Administrativo Informatizado V. 4;1;Protocolo;Que campo distingue solicitações com o mesmo assunto?;Número de protocolo.
+1;Administrativo Informatizado V. 4;2;Documentos e versões;Como distinguir duas revisões do mesmo pedido?;Use número de versão e registre a revisão.
+1;Administrativo Informatizado V. 4;3;Planilha de compras;Qual o custo de 12 itens a R$ 4,50 com frete de R$ 8?;R$ 62.
+1;Administrativo Informatizado V. 4;4;Comunicação e acompanhamento;Que dado permite relacionar o e-mail à planilha?;O número do protocolo.
+2;Departamento Pessoal V. 4;1;Admissão e sigilo;O que pode aparecer num quadro compartilhado de treinamento?;Código fictício e status, sem documentos ou dados pessoais.
+2;Departamento Pessoal V. 4;2;Registro de jornada;Qual total decorre dos turnos 08–12 e 13–17?;Oito horas.
+2;Departamento Pessoal V. 4;3;Conferência de folha;Quanto sobra de R$ 1.100 com deduções simuladas de R$ 150?;R$ 950.
+2;Departamento Pessoal V. 4;4;Fluxo e validação;O que fazer se o registro e o comprovante divergem?;Registrar a divergência e encaminhar ao responsável antes do fechamento.
+3;Elaboração de Currículo;1;Inventário de experiências;Qual frase traz evidência: “sou ótimo” ou “cataloguei 30 livros”?;Cataloguei 30 livros, pois descreve uma ação e um resultado.
+3;Elaboração de Currículo;2;Estrutura de uma página;Qual seção deve destacar a feira que você já organizou?;Projetos ou experiências.
+3;Elaboração de Currículo;3;Texto e revisão;Que verbo funciona em “_____ uma planilha de inscrições”?;Organizei ou criei, desde que represente a ação.
+3;Elaboração de Currículo;4;Apresentação do portfólio;Qual evidência combina melhor com monitoria de biblioteca: catálogo ou placar do jogo?;Catálogo, por corresponder às atividades da biblioteca.
+4;Canva;1;Hierarquia visual;Que ajuste ajuda o título a aparecer antes dos detalhes?;Aumentar seu tamanho ou destaque e manter os detalhes em nível secundário.
+4;Canva;2;Cores e contraste;O que corrigir se amarelo-claro sobre branco quase desaparece?;Escurecer o texto ou escolher um fundo que ofereça contraste.
+4;Canva;3;Imagens e créditos;Onde verificar se um elemento pode ser reutilizado?;Nos termos ou na licença do elemento.
+4;Canva;4;Exportação e revisão;Qual arquivo você abriria para conferir a legibilidade após exportar?;O próprio PNG ou PDF exportado.
+5;CapCut;1;Roteiro e enquadramento;Qual plano mostra melhor como dobrar o papel?;Um plano próximo das mãos e do papel.
+5;CapCut;2;Linha do tempo e corte;O que você faz para retirar uma espera no começo de um clipe?;Apara o início do clipe.
+5;CapCut;3;Legendas e áudio;Como verificar se a legenda funciona sem áudio?;Assistir ao trecho sem som e conferir se a ação e a instrução são compreensíveis.
+5;CapCut;4;Revisão e exportação;Qual problema exige revisão antes da entrega: nome real visível ou corte intencional entre passos?;Nome real visível.
+6;Educação Financeira;1;Receitas e despesas;Com R$ 90 de entradas e R$ 58 de saídas, qual o saldo?;R$ 32.
+6;Educação Financeira;2;Necessidades e escolhas;Quanto falta se comprar os três itens?;R$ 5, pois a soma é R$ 45.
+6;Educação Financeira;3;Preço unitário e comparação;Qual é o menor preço unitário?;R$ 2 por unidade no pacote de seis.
+6;Educação Financeira;4;Meta e reserva;Para atingir R$ 48 em quatro semanas com parcelas iguais, quanto reservar por semana?;R$ 12.
+7;Empreendedorismo;1;Problema e público;Qual pergunta evita sugerir a resposta: “Você quer meu app?” ou “Como registra empréstimos hoje?”;Como registra empréstimos hoje?
+7;Empreendedorismo;2;Proposta de valor;O que é possível medir na ficha de empréstimo?;Tempo para localizar um registro ou número de registros encontrados.
+7;Empreendedorismo;3;Custo e estimativa;Quantas unidades cobrem R$ 40 com margem de R$ 4?;Dez.
+7;Empreendedorismo;4;Apresentação e revisão;Que evidência sustenta a proposta de localizar registros mais rápido?;A medição do tempo no teste, comparada a uma referência.
+8;Inglês Introdutório V.2;1;Personal introductions;Complete: “_____ you new here?”;Are.
+8;Inglês Introdutório V.2;2;School places;Complete: “There _____ two classrooms.”;are.
+8;Inglês Introdutório V.2;3;Directions;Qual expressão diz “vire à direita”?;Turn right.
+8;Inglês Introdutório V.2;4;Visitor dialogue;Como perguntar pela biblioteca em uma frase?;Where is the library?
+9;Inglês Básico;1;Daily routines;Complete: “She _____ chess on Friday” com play.;plays.
+9;Inglês Básico;2;Time and frequency;Complete: “_____ Tuesday, _____ five.”;On Tuesday, at five.
+9;Inglês Básico;3;Questions about habits;Qual está correta: “Does she reads?” ou “Does she read?”;Does she read?
+9;Inglês Básico;4;Compare routines;Qual palavra liga duas diferenças na frase de exemplo?;but.
+10;Digitação;1;Postura e teclas de referência;Que teclas têm marcas de referência em um teclado comum?;F e J.
+10;Digitação;2;Maiúsculas e acentos;Qual tecla é usada para uma maiúscula pontual?;Shift.
+10;Digitação;3;Precisão e revisão;Em 40 caracteres, com 2 erros, qual a precisão?;95%.
+10;Digitação;4;Ritmo e evolução;Qual comparação é mais justa: trechos semelhantes com o mesmo tempo ou textos muito diferentes?;Trechos semelhantes com o mesmo tempo.
+11;Excel Fundamental V. 2;1;Células e tipos de dado;Na referência C2, o que indica o 2?;A linha.
+11;Excel Fundamental V. 2;2;Fórmulas e cópia;Para 4 itens a R$ 3,50, qual total deve aparecer?;R$ 14,00.
+11;Excel Fundamental V. 2;3;Funções e visualização;Qual fórmula soma D2 até D4 em Excel configurado em português?;=SOMA(D2:D4).
+11;Excel Fundamental V. 2;4;Validação do orçamento;Qual célula você altera para testar quantidade, B2 ou D2?;B2, pois D2 deve conter a fórmula.
+12;ChatGPT;1;Prompts com objetivo;Que informação falta em “Explique ciência” para delimitar o tema?;Um tópico ou pergunta específica, como a função da luz na fotossíntese.
+12;ChatGPT;2;Contexto e iteração;Qual pedido orienta melhor a revisão: “melhore” ou “resuma em cinco itens e preserve as datas”?;O segundo.
+12;ChatGPT;3;Alucinações e checagem;Uma referência parece real mas não é encontrada. Como registrar isso?;Como não verificada e sem usá-la como evidência.
+12;ChatGPT;4;Uso responsável e autoria;Que informação não deve entrar em um prompt sobre um colega?;Nome, contato ou outro dado pessoal desnecessário.
+13;Inteligência Artificial;1;Regras e exemplos;Qual método usa exemplos rotulados para estimar um padrão?;O aprendizado supervisionado.
+13;Inteligência Artificial;2;Treino e teste;Por que não testar só com os mesmos seis exemplos usados no treino?;Porque isso não verifica desempenho com exemplos novos.
+13;Inteligência Artificial;3;Viés e limites;Qual ajuste ajuda quando quase todos os papéis do treino são brancos?;Incluir papéis de várias cores no treino.
+13;Inteligência Artificial;4;IA generativa e decisão humana;Qual sistema produz um texto novo: gerador de texto ou classificador de material?;O gerador de texto.
+14;Marketing Digital V. 2;1;Público, objetivo e canal;Qual objetivo pode ser acompanhado: “divulgar muito” ou “30 confirmações em duas semanas”?;30 confirmações em duas semanas.
+14;Marketing Digital V. 2;2;Mensagem e calendário;Qual chamada indica claramente o próximo passo?;Confirme presença no formulário da mostra até sexta.
+14;Marketing Digital V. 2;3;Indicadores;Qual taxa resulta de 30 cliques em 600 impressões?;5%.
+14;Marketing Digital V. 2;4;Otimização responsável;Por que manter o canal igual ao comparar títulos?;Para reduzir a influência do canal sobre o resultado.
+15;Whatsapp Business;1;Perfil e catálogo;Qual dado ajuda o cliente a diferenciar dois cadernos de mesmo preço?;Medida, número de folhas ou outra característica objetiva.
+15;Whatsapp Business;2;Respostas rápidas;O que fazer antes de enviar uma resposta padrão?;Conferir se ela responde corretamente ao caso.
+15;Whatsapp Business;3;Etiquetas e fluxo;Qual estado representa um caso com resposta ainda pendente do cliente?;Aguardando confirmação ou resposta.
+15;Whatsapp Business;4;Privacidade e qualidade;Ao receber pedido de contato particular de outro cliente, como agir?;Preservar os dados e encaminhar internamente se houver necessidade legítima.
+16;AutoCAD 2D 2020;1;Unidades e coordenadas;Quais são as dimensões do retângulo do exemplo?;4.000 mm por 3.000 mm.
+16;AutoCAD 2D 2020;2;Camadas e precisão;Qual recurso ajuda a encostar duas linhas no ponto final?;Captura de ponto final, ou object snap.
+16;AutoCAD 2D 2020;3;Edição e cotas;Qual comando cria uma linha paralela a distância fixa?;OFFSET.
+16;AutoCAD 2D 2020;4;Layout e entrega;No papel a 1:50, quanto mede uma linha de 3.000 mm?;60 mm.
+17;Atendente de Farmácia V.2;1;Papéis e limites;A quem encaminhar uma dúvida de dose?;Ao farmacêutico responsável.
+17;Atendente de Farmácia V.2;2;Lote e validade;Que campos diferenciam duas unidades de mesmo produto com entregas distintas?;Lote e validade, acompanhados do registro de entrada.
+17;Atendente de Farmácia V.2;3;Conservação e segregação;O que registrar quando um lote está ilegível?;Item, ocorrência e momento, encaminhando ao responsável sem inventar lote.
+17;Atendente de Farmácia V.2;4;Privacidade e atendimento;Que informação deve ficar fora de quadro público?;Identidade e detalhes de saúde da pessoa atendida.
+18;Gestão de Recursos Humanos V.2;1;Descrição de função;Qual é um requisito observável para controlar materiais?;Preencher corretamente uma ficha de retirada.
+18;Gestão de Recursos Humanos V.2;2;Seleção por critérios;O que torna duas avaliações comparáveis?;Mesmo critério, mesma escala e evidência registrada.
+18;Gestão de Recursos Humanos V.2;3;Integração e acompanhamento;Qual evidência ajuda a saber se a tarefa foi compreendida?;Uma simulação executada e conferida.
+18;Gestão de Recursos Humanos V.2;4;Feedback e indicadores;Qual a taxa com 9 de 12 etapas concluídas?;75%.
+19;Logística;1;Entrada e divergência;Qual a divergência se o pedido era 20 e chegaram 17?;Três unidades a menos.
+19;Logística;2;Endereçamento e estoque;Quanto está disponível se há 30 físicos e 12 reservados?;18.
+19;Logística;3;Separação e expedição;Em que etapa comparar produtos separados e pedido?;Na conferência antes de expedir.
+19;Logística;4;Inventário e desempenho;Qual ação antecede ajuste no sistema quando a contagem diverge?;Recontar e investigar conforme o fluxo definido.
+20;Operador de Caixa;1;Registro de itens;Que subtotal resulta de 3 itens de R$ 4,25?;R$ 12,75.
+20;Operador de Caixa;2;Valores e troco;Qual o troco de R$ 50 para uma compra de R$ 37,40?;R$ 12,60.
+20;Operador de Caixa;3;Exceções e privacidade;Como agir diante de divergência de preço?;Pausar a operação, conferir e seguir o procedimento institucional aplicável.
+20;Operador de Caixa;4;Fechamento;Se o esperado era R$ 112 e a contagem foi R$ 109, qual a diferença?;R$ 3 a menos.
+21;Técnicas de Vendas V. 2;1;Escuta e diagnóstico;Qual pergunta revela contexto de uso?;“Para qual atividade você precisa do material?”
+21;Técnicas de Vendas V. 2;2;Valor e proposta;Qual é o benefício de uma pasta resistente para quem leva desenhos na mochila?;Reduzir danos aos desenhos no transporte.
+21;Técnicas de Vendas V. 2;3;Objeções e transparência;O que fazer se desconhece o prazo de entrega?;Verificar antes de prometer.
+21;Técnicas de Vendas V. 2;4;Fechamento e pós-venda;Quais dados você confirma antes de encerrar?;Item, quantidade, preço, prazo e próximo passo.
+22;Assistente Contábil V.2;1;Documentação e classificação;Qual conta acompanha o dinheiro disponível no caixa?;Caixa, no ativo.
+22;Assistente Contábil V.2;2;Partidas dobradas;Se os débitos totalizam R$ 300, quanto deve somar o crédito?;R$ 300.
+22;Assistente Contábil V.2;3;Balancete e conciliação;Por que comparar o diário com os documentos?;Para confirmar a origem, o valor e a conta além da igualdade aritmética.
+22;Assistente Contábil V.2;4;Relatório de conferência;Qual evidência permite reconstruir o lançamento?;Documento vinculado, data, histórico, contas e valor.
+23;Comunicação Profissional;1;Público e intenção;O que muda quando a mensagem vai para quem autoriza a compra?;Incluem-se justificativa, valor e pedido de aprovação.
+23;Comunicação Profissional;2;E-mail e clareza;Qual assunto é mais verificável: “urgente” ou “aprovar cartazes até quinta”?;Aprovar cartazes até quinta.
+23;Comunicação Profissional;3;Escuta e reunião;Quais campos tornam uma decisão acompanhável?;Ação, responsável e prazo.
+23;Comunicação Profissional;4;Feedback e apresentação;O que torna o feedback do exemplo executável?;Ele indica o ponto observado e o ajuste específico.
+24;Inteligência Emocional;1;Emoção e reação;Em “respondeu com voz alta”, o que está descrito?;Um comportamento observável.
+24;Inteligência Emocional;2;Pausa e escolha;Que resposta recolhe informação antes de reagir?;“Pode mostrar qual parte precisa ser refeita?”
+24;Inteligência Emocional;3;Escuta empática e limites;Qual componente torna a resposta assertiva?;Ela reconhece a situação e informa o que pode ser feito e quando.
+24;Inteligência Emocional;4;Conflito e rede de apoio;Quando a conversa entre colegas não resolve uma situação persistente, qual próximo passo?;Procurar adulto de confiança ou canal institucional.
+25;Novo Emprego: Rota para o Futuro;1;Objetivo e evidências;Qual frase demonstra melhor organização?;Uma descrição de ação e resultado, como manter o registro de empréstimos.
+25;Novo Emprego: Rota para o Futuro;2;Oportunidades e verificação;Que fonte confirma se o anúncio realmente pertence à empresa?;Canal oficial da empresa ou plataforma oficial indicada.
+25;Novo Emprego: Rota para o Futuro;3;Entrevista e portfólio;Qual parte da resposta indica o efeito da ação?;O resultado.
+25;Novo Emprego: Rota para o Futuro;4;Acompanhamento e próximos passos;Qual informação ajuda a saber quando acompanhar uma candidatura?;Data ou prazo combinado para retorno.
+26;Photoshop CC V.2;1;Camadas e ordem;Qual ação traz um título escondido para frente?;Mover sua camada acima da que o cobre.
+26;Photoshop CC V.2;2;Seleção e máscara;Como ocultar parte de uma camada mantendo a edição reversível?;Aplicar uma máscara.
+26;Photoshop CC V.2;3;Ajustes e tipografia;Qual recurso permite reverter o ajuste de brilho sem alterar a camada original?;Camada de ajuste.
+26;Photoshop CC V.2;4;Exportação e arquivo editável;Qual formato preserva as camadas para continuar editando no Photoshop?;PSD.
+27;Premiere CC;1;Projeto e sequência;Que função evita buscar arquivos soltos na montagem?;Organizar mídias em pastas ou bins no projeto.
+27;Premiere CC;2;Montagem e ritmo;Para remover espera antes de começar uma ação, qual parte aparar?;A entrada do clipe.
+27;Premiere CC;3;Áudio, legendas e direitos;Como testar a compreensão das legendas?;Rever o trecho sem áudio e verificar leitura e sincronia.
+27;Premiere CC;4;Exportação e entrega;O que pode ocorrer ao mover só o projeto sem as mídias?;Os arquivos vinculados podem aparecer offline.
+28;CorelDRAW;1;Vetor e página;Por que um círculo vetorial não pixeliza ao ampliar a curva?;A curva é recalculada no novo tamanho.
+28;CorelDRAW;2;Curvas e combinação;O que é um nó em uma curva vetorial?;Um ponto que ajuda a definir a forma do caminho.
+28;CorelDRAW;3;Tipografia e alinhamento;Que ajuste ajuda se as placas parecem desalinhadas?;Aplicar guia ou ferramenta de alinhamento comum.
+28;CorelDRAW;4;Exportação e teste;Que arquivo vale conservar para editar as placas depois?;O CDR ou o formato vetorial editável escolhido.
+29;Inglês Intermediário;1;Past events;Qual é o passado de go?;went.
+29;Inglês Intermediário;2;Plans and suggestions;Qual expressão introduz sugestão: “We are going to” ou “You could”?;You could.
+29;Inglês Intermediário;3;Comparisons and reasons;Complete: “The lab is quieter _____ the hall.”;than.
+29;Inglês Intermediário;4;Mini guide and feedback;Que palavra introduz a razão em “Bring a map because the campus is large”?;because.
+30;Excel Avançado 2019;1;Tabela e qualidade;Por que preços precisam ser números na base?;Para que sejam agregados e comparados corretamente.
+30;Excel Avançado 2019;2;SOMASES e referências;O que representa D2:D11 na fórmula?;Intervalo a somar.
+30;Excel Avançado 2019;3;Busca e tabela dinâmica;Qual argumento de CORRESP indica busca exata?;0.
+30;Excel Avançado 2019;4;Validação e atualização;Após adicionar um registro, o que conferir na tabela dinâmica?;Fonte de dados e atualização do resumo.
+31;Power BI Desktop V.3;1;Importação e tipos;Onde revisar o tipo de dado antes da carga?;No Power Query.
+31;Power BI Desktop V.3;2;Modelo e relacionamentos;Em qual tabela os códigos dos livros devem ser únicos?;Na dimensão Livros.
+31;Power BI Desktop V.3;3;Medidas e contexto;A medida pode mudar ao selecionar uma categoria?;Sim, conforme o contexto do filtro e o relacionamento.
+31;Power BI Desktop V.3;4;Painel e validação;Como conferir a medida sem filtros?;Comparar o valor com a contagem da base de origem.
+32;Word V.2;1;Estilos e navegação;Que estilo costuma identificar uma seção principal?;Título 1.
+32;Word V.2;2;Tabelas e referências;Por que nomear os cabeçalhos da tabela?;Para que o leitor identifique o significado dos valores.
+32;Word V.2;3;Revisão colaborativa;Qual recurso mostra a mudança feita e permite aceitá-la ou rejeitá-la?;Controle de alterações.
+32;Word V.2;4;Sumário e exportação;Após alterar um título, o que fazer com o sumário?;Atualizá-lo.
+33;Power Point;1;Estrutura da apresentação;Em que slide costuma aparecer a resposta sustentada pelo resultado?;Na conclusão.
+33;Power Point;2;Layouts e legibilidade;Que ação ajuda se o texto está pequeno e ocupa a tela toda?;Encurtar o texto e ampliar a fonte.
+33;Power Point;3;Gráfico e roteiro oral;O que indica a unidade representada por cada barra?;O título, o rótulo do eixo ou a legenda, conforme o gráfico.
+33;Power Point;4;Ensaio e acessibilidade;O que dizer ao mostrar um gráfico para quem não consegue vê-lo bem?;O que os dados representam e qual informação central deve ser percebida.
+34;Manutenção de Computadores V. 2;1;Componentes e funções;Que componente costuma conservar os arquivos após desligar?;O armazenamento.
+34;Manutenção de Computadores V. 2;2;Triagem e limites;Que verificação externa pode iniciar a triagem de monitor sem imagem?;Confirmar a fonte de entrada selecionada no monitor, sob supervisão.
+34;Manutenção de Computadores V. 2;3;Sistema e armazenamento;Um disco quase cheio comprova falha física?;Não. É indício de falta de espaço e deve ser analisado no contexto.
+34;Manutenção de Computadores V. 2;4;Registro e encaminhamento;Que informação evita repetição de teste no suporte?;Registro do teste e do resultado observado.
+35;Fundamentos do N8N;1;Disparo e nós;Qual nó pode iniciar este teste sob comando do aluno?;Manual Trigger.
+35;Fundamentos do N8N;2;Condições e tipos;Qual saída recebe 0 quando a condição é maior que zero?;A saída falsa.
+35;Fundamentos do N8N;3;Dados e falhas;Por que registrar um caso inválido junto aos válidos?;Para verificar se o fluxo lida com a exceção como planejado.
+35;Fundamentos do N8N;4;Resumo e entrega;Que dados devem acompanhar o fluxo para reprodução?;Amostras fictícias, instruções e resultados esperados.
+36;Lovable AI V.2;1;Escopo e histórias de uso;Que critério permite testar a ordenação?;Eventos com datas distintas aparecem da mais próxima para a mais distante.
+36;Lovable AI V.2;2;Prompt e interface;Que instrução estabelece um limite de escopo no exemplo?;Sem login nem publicação.
+36;Lovable AI V.2;3;Revisão e acessibilidade;Que mensagem ajuda quando um filtro retorna zero itens?;Uma indicação explícita de que não há resultados para o filtro escolhido.
+36;Lovable AI V.2;4;Demonstração e limites;Que informação evita confundir demonstração com sistema em operação?;A indicação dos dados fictícios, do escopo e das funções simuladas.
+37;Desenvolvedor de Games Online V.2;1;Mecânica e protótipo;Qual ação central precisa funcionar antes de adicionar cenários?;Mover o personagem para desviar do obstáculo.
+37;Desenvolvedor de Games Online V.2;2;Estados de jogo;Em qual estado o placar deve avançar durante o desvio?;Durante a partida.
+37;Desenvolvedor de Games Online V.2;3;Dificuldade e feedback;Por que mudar uma variável de cada vez?;Para identificar qual mudança afetou o jogo.
+37;Desenvolvedor de Games Online V.2;4;Empacotamento e teste;Qual teste ajuda a verificar se a entrega inclui todos os recursos?;Abrir a entrega em outra estação ou no ambiente do AVA e conferir a execução.
+38;Lógica de Programação V.2;1;Entradas, processamento e saída;Em “mostrar quantidade de livros disponíveis”, o que é a saída?;A quantidade informada ao usuário.
+38;Lógica de Programação V.2;2;Condições;Se o estoque e o pedido são 3, a condição estoque ≥ pedido é verdadeira?;Sim.
+38;Lógica de Programação V.2;3;Laços e contadores;O contador de pedidos atendidos aumenta também em pedidos recusados?;Não.
+38;Lógica de Programação V.2;4;Casos de teste e fluxograma;Que entrada testa a fronteira da disponibilidade?;Pedido exatamente igual ao estoque.
+39;Python;1;Variáveis e tipos;Qual é o tipo retornado diretamente por input?;str.
+39;Python;2;Condições e validação;Uma nota exatamente 10 é válida pela regra do exemplo?;Sim.
+39;Python;3;Listas e repetição;Por que verificar se a lista está vazia antes de dividir?;Para evitar divisão por zero.
+39;Python;4;Funções e testes;Que instrução devolve o resultado da função ao ponto que a chamou?;return.
+40;HTML5 e CSS3;1;Estrutura semântica;Qual elemento marca o conteúdo principal?;main.
+40;HTML5 e CSS3;2;CSS e modelo de caixa;Qual propriedade cria espaço interno?;padding.
+40;HTML5 e CSS3;3;Responsividade e acessibilidade;Qual atributo fornece alternativa textual para imagem?;alt.
+40;HTML5 e CSS3;4;Revisão e entrega local;O que deve acompanhar o HTML se ele usa styles.css?;O arquivo styles.css no caminho referenciado.
+41;SketchUp;1;Eixos e medidas;Que medida corresponde ao lado menor do exemplo?;3 m.
+41;SketchUp;2;Faces, volumes e grupos;Por que agrupar a divisória?;Para editá-la sem alterar a geometria do piso.
+41;SketchUp;3;Componentes e cenas;Qual recurso registra um ponto de vista para apresentação?;Cena.
+41;SketchUp;4;Revisão e exportação;Qual vista ajuda a verificar a disposição no piso?;Vista superior.
+42;Revit;1;Níveis e modelo;Que informação define a altura de referência de um pavimento?;A cota do nível.
+42;Revit;2;Famílias e parâmetros;Como evitar editar todas as portas de um tipo existente?;Duplique o tipo e atribua o novo tipo onde necessário.
+42;Revit;3;Vistas e tabelas;Que dado identifica individualmente uma porta na tabela?;A marca quando atribuída de forma distinta.
+42;Revit;4;Prancha e coordenação;Como verificar que tabela e modelo permanecem consistentes?;Alterar um elemento didático e conferir se a tabela reflete o dado esperado.
+43;Biossegurança;1;Perigo, risco e barreiras;Que fator muda o risco no exemplo?;A condição de acesso ou possibilidade de contato.
+43;Biossegurança;2;Prevenção e organização;O que pode reduzir o risco na origem no exemplo?;Eliminar o obstáculo da rota.
+43;Biossegurança;3;Resíduos e simulação;Em situação real, onde conferir o fluxo de descarte do estabelecimento?;No plano institucional de gerenciamento de resíduos e com o responsável.
+43;Biossegurança;4;Comunicação de ocorrências;Qual informação permite ao responsável localizar a ocorrência?;Local e horário, com descrição objetiva do que foi observado.

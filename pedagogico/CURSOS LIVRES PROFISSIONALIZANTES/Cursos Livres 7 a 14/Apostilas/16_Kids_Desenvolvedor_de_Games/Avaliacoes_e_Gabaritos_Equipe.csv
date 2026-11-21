@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+16;Kids - Desenvolvedor de Games;1;Regras e objetivo;Qual é a vitória no exemplo?;Coletar três estrelas.
+16;Kids - Desenvolvedor de Games;2;Controles e limites;Qual tecla normalmente reduz a posição horizontal?;Seta esquerda.
+16;Kids - Desenvolvedor de Games;3;Colisão e pontos;Por que esconder a estrela depois da coleta?;Para impedi-la de acionar pontos repetidos.
+16;Kids - Desenvolvedor de Games;4;Teste de jogo;Que valor o placar deve mostrar ao reiniciar?;Zero.

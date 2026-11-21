@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+32;Excel Avançado 2019;1;Tabela e qualidade;Por que preços precisam ser números na base?;Para que sejam agregados e comparados corretamente.
+32;Excel Avançado 2019;2;SOMASES e referências;O que representa D2:D11 na fórmula?;Intervalo a somar.
+32;Excel Avançado 2019;3;Busca e tabela dinâmica;Qual argumento de CORRESP indica busca exata?;0.
+32;Excel Avançado 2019;4;Validação e atualização;Após adicionar um registro, o que conferir na tabela dinâmica?;Fonte de dados e atualização do resumo.

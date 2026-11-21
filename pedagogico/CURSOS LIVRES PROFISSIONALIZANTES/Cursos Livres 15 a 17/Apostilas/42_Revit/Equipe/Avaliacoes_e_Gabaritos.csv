@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+42;Revit;1;Níveis e modelo;Que informação define a altura de referência de um pavimento?;A cota do nível.
+42;Revit;2;Famílias e parâmetros;Como evitar editar todas as portas de um tipo existente?;Duplique o tipo e atribua o novo tipo onde necessário.
+42;Revit;3;Vistas e tabelas;Que dado identifica individualmente uma porta na tabela?;A marca quando atribuída de forma distinta.
+42;Revit;4;Prancha e coordenação;Como verificar que tabela e modelo permanecem consistentes?;Alterar um elemento didático e conferir se a tabela reflete o dado esperado.

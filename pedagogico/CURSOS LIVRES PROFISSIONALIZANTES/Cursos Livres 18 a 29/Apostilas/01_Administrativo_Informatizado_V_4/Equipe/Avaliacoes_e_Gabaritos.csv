@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+1;Administrativo Informatizado V. 4;1;Protocolo;Que campo distingue solicitações com o mesmo assunto?;Número de protocolo.
+1;Administrativo Informatizado V. 4;2;Documentos e versões;Como distinguir duas revisões do mesmo pedido?;Use número de versão e registre a revisão.
+1;Administrativo Informatizado V. 4;3;Planilha de compras;Qual o custo de 12 itens a R$ 4,50 com frete de R$ 8?;R$ 62.
+1;Administrativo Informatizado V. 4;4;Comunicação e acompanhamento;Que dado permite relacionar o e-mail à planilha?;O número do protocolo.

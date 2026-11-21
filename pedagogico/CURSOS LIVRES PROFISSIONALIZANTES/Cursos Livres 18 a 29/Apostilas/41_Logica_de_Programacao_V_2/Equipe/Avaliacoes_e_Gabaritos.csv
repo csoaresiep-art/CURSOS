@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+41;Lógica de Programação V.2;1;Entradas, processamento e saída;Em “mostrar quantidade de livros disponíveis”, o que é a saída?;A quantidade informada ao usuário.
+41;Lógica de Programação V.2;2;Condições;Se o estoque e o pedido são 3, a condição estoque ≥ pedido é verdadeira?;Sim.
+41;Lógica de Programação V.2;3;Laços e contadores;O contador de pedidos atendidos aumenta também em pedidos recusados?;Não.
+41;Lógica de Programação V.2;4;Casos de teste e fluxograma;Que entrada testa a fronteira da disponibilidade?;Pedido exatamente igual ao estoque.

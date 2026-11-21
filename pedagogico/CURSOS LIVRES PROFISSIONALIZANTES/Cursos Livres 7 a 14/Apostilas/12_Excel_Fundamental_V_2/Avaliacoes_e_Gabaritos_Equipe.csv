@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+12;Excel Fundamental V. 2;1;Células e tipos de dado;Na referência C2, o que indica o 2?;A linha.
+12;Excel Fundamental V. 2;2;Fórmulas e cópia;Para 4 itens a R$ 3,50, qual total deve aparecer?;R$ 14,00.
+12;Excel Fundamental V. 2;3;Funções e visualização;Qual fórmula soma D2 até D4 em Excel configurado em português?;=SOMA(D2:D4).
+12;Excel Fundamental V. 2;4;Validação do orçamento;Qual célula você altera para testar quantidade, B2 ou D2?;B2, pois D2 deve conter a fórmula.

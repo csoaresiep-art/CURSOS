@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+19;Logística;1;Entrada e divergência;Qual a divergência se o pedido era 20 e chegaram 17?;Três unidades a menos.
+19;Logística;2;Endereçamento e estoque;Quanto está disponível se há 30 físicos e 12 reservados?;18.
+19;Logística;3;Separação e expedição;Em que etapa comparar produtos separados e pedido?;Na conferência antes de expedir.
+19;Logística;4;Inventário e desempenho;Qual ação antecede ajuste no sistema quando a contagem diverge?;Recontar e investigar conforme o fluxo definido.

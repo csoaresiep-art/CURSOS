@@ -1,0 +1,5 @@
+﻿Código;Curso;Semana;Tema;Questão;Gabarito
+12;Inteligência Artificial;1;Regras e exemplos;Qual método usa exemplos rotulados para estimar um padrão?;O aprendizado supervisionado.
+12;Inteligência Artificial;2;Treino e teste;Por que não testar só com os mesmos seis exemplos usados no treino?;Porque isso não verifica desempenho com exemplos novos.
+12;Inteligência Artificial;3;Viés e limites;Qual ajuste ajuda quando quase todos os papéis do treino são brancos?;Incluir papéis de várias cores no treino.
+12;Inteligência Artificial;4;IA generativa e decisão humana;Qual sistema produz um texto novo: gerador de texto ou classificador de material?;O gerador de texto.
