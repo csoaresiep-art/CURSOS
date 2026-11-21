@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.000
+Conceito. Uma repetição compacta instruções recorrentes. Depuração compara estado esperado e obtido e localiza o primeiro ponto de divergência. Registre o teste após a correção.
+
+00:00:12.000 --> 00:00:24.000
+Exemplo resolvido. “Repita 3 vezes: avance e vire à direita” desenha três lados de um quadrado em uma malha livre. A quarta repetição fecha o circuito.
+
+00:00:24.000 --> 00:00:33.000
+Atividade. Corrija uma sequência com número errado de repetições. Registre posição e orientação após cada volta.

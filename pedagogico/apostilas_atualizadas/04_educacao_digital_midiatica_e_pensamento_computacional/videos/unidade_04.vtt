@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:12.000
+Conceito. Entradas, processamento e saídas são um modelo para entender sistemas digitais. Separe dispositivos físicos de programas e observe como instruções transformam entradas em saídas.
+
+00:00:12.000 --> 00:00:23.000
+Exemplo resolvido. Num semáforo simulado, o botão é entrada, a regra de temporização pertence ao programa e a luz é saída.
+
+00:00:23.000 --> 00:00:33.000
+Atividade. Modele um alarme escolar fictício com entrada, duas regras e saída. Simule com papéis em sala.

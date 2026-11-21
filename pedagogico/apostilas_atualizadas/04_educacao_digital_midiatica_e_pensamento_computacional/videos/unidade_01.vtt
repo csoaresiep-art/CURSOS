@@ -1,0 +1,10 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:11.000
+Conceito. Um algoritmo explicita instruções finitas e ordenadas. Representar ações por linguagem natural e pictogramas permite discutir ambiguidade e testar a sequência.
+
+00:00:11.000 --> 00:00:23.000
+Exemplo resolvido. Em tabuleiro, o robô começa voltado para o norte. “Vire à direita, avance duas casas” depende da orientação inicial e do significado de avançar.
+
+00:00:23.000 --> 00:00:36.000
+Atividade. Desenhe malha 4 por 4 e crie instruções para ir de A1 a C2 com orientação inicial definida. Peça a uma dupla que teste sem ajuda.
